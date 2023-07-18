@@ -1,7 +1,7 @@
 # Analysis of Zomato Restaurants in India
 
 
-Analyzed data for 1.3 million+ loans containing 26 columns using Pandas and NumPy.
+Analyzed data for 1.3 million+ rows containing 26 columns using Pandas and NumPy.
 
 Created visualizations (scatter plots, violin charts, geo heatmaps, etc.) using Seaborn & Plotly.
 
