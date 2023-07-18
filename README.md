@@ -1,5 +1,10 @@
 # Analysis of Zomato Restaurants in India
 
-This project will help you understand the distribution of restaurants across different cities in India. 
-Other important visualizations include rating, average cost for two people, number of vegetarian restaurants, number of different restaurants types. 
 
+Analyzed data for 1.3 million+ loans containing 26 columns using Pandas and NumPy.
+
+Created visualizations (scatter plots, violin charts, geo heatmaps, etc.) using Seaborn & Plotly.
+
+Metro cities have more restaurants and high prices than other restaurants.
+
+Project Link : https://jovian.com/alamfaizan7777/project-explo-data-analysis
